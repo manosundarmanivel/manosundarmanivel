@@ -1,5 +1,7 @@
 <h1 align="center">Hi 👋, I'm Mano Sundar M</h1>
-<h3 align="center">A passionate developer and designer</h3>
+<h3 align="center">Enthusiastic and dedicated Computer Science 
+Engineering fresher with a passion for technology and 
+innovation.</h3>
 
 - 🔭 I’m currently working on [Youtube Clone](https://64c32f22bfe6ca2f3286fae5--steady-semifreddo-0dae72.netlify.app/)
 
