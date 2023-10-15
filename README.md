@@ -25,15 +25,11 @@ Hi there! I'm a software enthusiast who loves exploring new technologies and cre
 
 <br/>  
 
-<table><tr><td valign="top" width="50%">
 
 
 
-</td><td valign="top" width="50%">
 
-
-
-</td></tr></table>  
+ 
 
 <br/>  
 
