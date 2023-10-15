@@ -21,18 +21,6 @@
 Hi there! I'm a software enthusiast who loves exploring new technologies and creating useful things. I enjoy collaborating with others on open-source projects.  
   
 
-  
-
-<br/>  
-
-
-
-
-
- 
-
-<br/>  
-
 
 ## Languages and Tools  
 <div align="center">  
